@@ -3,7 +3,7 @@
 	"type": "plugin",
 	"name": "VS Code Plugin",
 	"id": "EdwardBonnett_VsCodePlugin",
-	"version": "1.0.0.0",
+	"version": "1.0.0.1",
 	"author": "Edward Bonnett",
 	"website": "https://github.com/EdwardBonnett/c3-auto-script-reloader/tree/vscode",
 	"documentation": "https://github.com/EdwardBonnett/c3-auto-script-reloader/tree/vscode",
