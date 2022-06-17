@@ -14,7 +14,7 @@
 	const PLUGIN_ID = "EdwardBonnett_VsCodePlugin";
 	////////////////////////////////////////////
 
-	const PLUGIN_VERSION = "1.0.0.0";
+	const PLUGIN_VERSION = "1.0.0.1";
 	const PLUGIN_CATEGORY = "other";
 
 	const PLUGIN_CLASS = SDK.Plugins.EdwardBonnett_VsCodePlugin = class MyCustomPlugin extends SDK.IPluginBase

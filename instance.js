@@ -15,7 +15,6 @@
 		}
 
 		async OnCreate() { 
-            this.FakeWake();        
             globalThis.VsCodeSocket = window.io("http://localhost:3003", {
                 query: {
                     "environment": "editor"
